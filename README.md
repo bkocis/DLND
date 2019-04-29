@@ -1,2 +1,4 @@
 # DLND
-Udacity_Deep_Learning_NanoDegree_projects_of_mine
+This repository contains my project along the Udacity Deep Learning NanoDegree program. 
+
+Starting date : March 14th 2019
